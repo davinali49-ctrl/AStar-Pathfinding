@@ -1,0 +1,20 @@
+# Compiled files
+
+*.exe
+*.out
+*.o
+
+# Build directories
+
+build/
+bin/
+
+# IDE / Editor
+
+.vscode/
+.idea/
+
+# OS generated files
+
+.DS_Store
+Thumbs.db
